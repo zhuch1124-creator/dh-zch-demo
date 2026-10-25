@@ -1,0 +1,6 @@
+{
+  "name": "敦煌重光：修缮守护者之旅",
+  "description": "沉浸式莫高窟数字修缮与文化探索体验：手势烛火探照、360°洞窟全景漫游、寻宝材料收集、古法壁画绘制及敦煌学通关问答。",
+  "requestFramePermissions": ["camera"],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
